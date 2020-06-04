@@ -1,5 +1,6 @@
 Proceso Recorrido2
 	//recorrido zigzag de arriba a abajo desde [1,1]hasta [M,N]
+	//miro.com/app/board/o9J_krH6PXY=/
 	M=4
 	N=5
 	i=1 //filas

@@ -1,6 +1,6 @@
 Proceso EJEMPLO2
 	//Crear una matriz de tamaño 3 por 4 y cargarla con valores leidos desde teclado.
-	//imprimir enun segundo recorrido
+	//imprimir en un segundo recorrido
 	M=3
 	N=4
 	Dimension MAT[M,N]

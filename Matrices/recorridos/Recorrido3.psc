@@ -1,5 +1,6 @@
 Proceso Recorrido3
 	//recorrido zigzag horizontal [1,N]hasta [M,1]
+	//miro.com/app/board/o9J_krHYeoA=/
 	M=4
 	N=5
 	i=1 //

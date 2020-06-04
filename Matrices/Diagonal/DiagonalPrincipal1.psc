@@ -1,8 +1,10 @@
 Proceso DP1
+	//https://miro.com/app/board/o9J_krFwHTY=/
 	M=5
 	N=5
 	i=1 //filas
 	j=1 //columnas
+
 	Dimension MAT[M,N]
 	Mientras i<=M 
 		j=1

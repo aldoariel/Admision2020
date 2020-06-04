@@ -1,5 +1,6 @@
 Proceso Recorrido4
 	//recorrido zigzag de arriba a abajo desde [1,N]hasta [M,1]
+	//miro.com/app/board/o9J_krGh8ss=/
 	M=4
 	N=5
 	Dimension MAT[M,N]
